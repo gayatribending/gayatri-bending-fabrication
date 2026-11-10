@@ -1,0 +1,31 @@
+<!-- Paste inside <head> before </head>. Replace the old title and meta description;
+     keep only one <title> and one meta description. -->
+<title>Pipe, Angle &amp; Section Bending in Kolkata | Gayatri Bending &amp; Fabrication</title>
+<meta name="description" content="Gayatri Bending &amp; Fabrication in Maheshtala, Kolkata offers pipe bending, angle bending, channel bending, sheet bending, section bending and industrial fabrication. Call or WhatsApp for quotations.">
+<link rel="canonical" href="https://gayatribending.github.io/gayatri-bending-fabrication/">
+<meta name="robots" content="index,follow">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Gayatri Bending &amp; Fabrication | Kolkata">
+<meta property="og:description" content="Pipe, angle, channel, sheet and section bending with fabrication services in Maheshtala, Kolkata.">
+<meta property="og:url" content="https://gayatribending.github.io/gayatri-bending-fabrication/">
+<meta property="og:site_name" content="Gayatri Bending &amp; Fabrication">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Gayatri Bending & Fabrication",
+  "url": "https://gayatribending.github.io/gayatri-bending-fabrication/",
+  "description": "Pipe bending, angle bending, channel bending, sheet bending, section bending and industrial fabrication in Maheshtala, Kolkata.",
+  "telephone": "+91-7980001944",
+  "email": "ramashankarsharma87@gmail.com",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Maheshtala",
+    "addressRegion": "West Bengal",
+    "addressCountry": "IN"
+  },
+  "areaServed": ["Kolkata", "West Bengal"],
+  "knowsAbout": ["Pipe bending", "Angle bending", "Channel bending", "Sheet bending", "Section bending", "Metal fabrication"]
+}
+</script>
